@@ -1,2 +1,3 @@
-# Student-Engagement-and-Performance-SOM
-Understanding Engagement Level and performance using SOM
+This project explored the prediction of student performance and engagement in a blended learning setup using unsupervised neural networks. I used a dataset with over 300,000 log records from a Learning Management System (LMS), performed feature engineering, and trained a Kohonen Self-Organizing Map (SOM) to cluster students into behavioral states such as "Good & High Engagement", "Weak & Low", etc.
+
+The project was implemented in Python using PyTorch and TensorFlow, with modular and reproducible design in Google Colab. This work supports targeted intervention in education and demonstrates how graph-based machine learning and SOMs can be applied in real-world educational settings.
